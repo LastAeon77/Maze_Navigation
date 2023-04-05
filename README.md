@@ -1,4 +1,8 @@
 # Maze_Navigation
+
+Final result shown here: https://www.youtube.com/watch?v=-LMTy2lNEWM
+
+
 Maze Navigation with OpenGL. Navigate by detecting clashes.
 
 Most credits for shader.h, mesh.h, model.h, camera.h and basic configurations goes to https://learnopengl.com/
